@@ -15,10 +15,10 @@
 ***COMBINED*** OR _**Combined**_
 
 ## STRIKETHROUGH
-strike this
+*~~strike this~~*
 # list
 1.odered list
-   - sublist 
+   -  abc 
    -  abc
 9.Unorederd list
   * abc
@@ -27,5 +27,7 @@ strike this
 # Links
 [class repository](github.com)
 # Images
+! [alt message](https://images.app.goo.gl/CYFDi9qH72mteYW66)
+
 
 
